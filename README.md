@@ -27,6 +27,6 @@ python3 main.py spiral_sand
 
 My favorite is "python3 main.py balls".
 You can control the direction of gravity using the arrow keys.
-I use it like a fidget toy when I'm bored in class.
+I use it like a fidget toy when I'm bored in class. :)
 
-:)
+Also "screen.py" is a helper class I use for simplifying the curses workflow as well as storing the screen in a 2x2 list (useful for things like "spiral_sand").

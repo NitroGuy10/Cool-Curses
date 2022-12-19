@@ -24,7 +24,7 @@ class screen:
         self.clear()
         self.add_matrix(stdscr)
     
-    def empty_screen_array(self) -> list[list[str]]:
+    def empty_screen_array(self):
         return [[" "] * self.lines] * self.cols
     
     def __getitem__(self, indices):
