@@ -75,18 +75,4 @@ def main(stdscr: curses.window):
     stdscr.refresh()
 
 
-    # pos = 0
-    # while (pos < curses.COLS and pos < curses.LINES):
-    #     stdscr.addch(pos, pos, "A")
-    #     pos += 1
-
-    while True:
-        pass
-
-
-    
-
-
-
 curses.wrapper(main)
-
