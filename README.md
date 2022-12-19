@@ -2,6 +2,8 @@
 
 Fun graphical demos in the terminal with [Curses](https://docs.python.org/3/howto/curses.html).
 
+!["python3 main.py balls" demo](balls.gif)
+
 Written in Python for no reason other than convenience.
 
 ## Usage
